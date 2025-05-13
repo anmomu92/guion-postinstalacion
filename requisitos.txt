@@ -1,0 +1,11 @@
+waybar
+uwsm
+bluez
+bluez-utils
+bluez-deprecated-tools
+kitty
+dunst
+pipewire
+hyprpolkitagent
+qt5-wayland
+qt6-wayland
