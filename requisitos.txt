@@ -1,4 +1,6 @@
 waybar
+man-db
+zsh
 uwsm
 bluez
 bluez-utils
