@@ -28,5 +28,8 @@ source modulos/requisitos.sh
 # Dotfiles
 source modulos/dotfiles.sh
 
+# Shell
+source modulos/shell.sh
+
 # Bluetooth
 source modulos/bluetooth.sh
